@@ -28,4 +28,4 @@ public class TestMethods {
      System.out.println(num);
      System.out.println(C(5,10));
     }//main
-}//calss
+}//class
