@@ -10,7 +10,6 @@ public class Exercise {
     private static int MAX = 20;
     public static void main(String[] args) {
         Integer[] num = new Integer[MAX];
-        num
 
     }//main
 }//class
