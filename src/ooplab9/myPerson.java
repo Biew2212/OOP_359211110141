@@ -8,10 +8,6 @@ public class myPerson {
                 new Job("Teacher",20000));
                 System.out.println(person.toString());
 
-    //edit data of object
-        person.getJob().getSalary(30000);
-        System.out.println(person.getJob().getPosition());
-        System.out.println(person.getJob().getSalary());
 
     }//main
 }//class
