@@ -1,8 +1,9 @@
 package ooplab8;
 
-import javafx.scene.shape.Shape;
+
 
 public class Circle implements Shape {
+
     private double r;
 
     public Circle(double r) {
@@ -19,6 +20,8 @@ public class Circle implements Shape {
 
    // @Override
     public double findArea() {
+
         return 3.14*(r*r);
     }
+
 }//class
